@@ -24,7 +24,7 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 ![Vector (3,-2) with the marked explementary angle](Plot_4.png)
 *Vector (3,-2) with the marked explementary angle*
 ![$z=4+2.4i$](Plot_z.png)
-*$z=4+2.4i$*
+*z=4+2.4i*
 
 ## License.
 
