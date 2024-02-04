@@ -2,7 +2,7 @@
 
 This project implements a dynamic vector plot in a Cartesian plane using TikZ and PGFPlots in LaTeX.
 
-## Description.
+## Description
 
 The provided LaTeX code allows you to generate a Cartesian graph with a dynamic vector based on specified values. The vector is represented by a point in the Cartesian plane, with its components and an angle $\theta$ shown in the graph.
 With trivial substitutions it can also be adapted to the representation of complex numbers in the Gauss plane.
@@ -26,7 +26,7 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 ![Complex number](Plot_z.png)
 *z=2+4.2i*
 
-## License.
+## License
 
 This code is open for unrestricted use by anyone. No attribution is required.
 
