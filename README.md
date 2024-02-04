@@ -23,6 +23,8 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 *Vector (-2.73, -4.15)*
 ![Vector (3,-2) with the marked explementary angle](Plot_4.png)
 *Vector (3,-2) with the marked explementary angle*
+![Complex number](Plot_z.png)
+*z=2+4.2i*
 
 ## License.
 
