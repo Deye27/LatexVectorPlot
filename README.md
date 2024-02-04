@@ -17,12 +17,16 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 
 ![Vector (3,2)](Plot_1.png)
 *Vector (3,2)*
+
 ![Vector (-4,2)](Plot_2.png)
 *Vector (-4,2)*
+
 ![Vector (-2.73, -4.15)](Plot_3.png)
 *Vector (-2.73, -4.15)*
+
 ![Vector (3,-2) with the marked explementary angle](Plot_4.png)
 *Vector (3,-2) with the marked explementary angle*
+
 ![Complex number](Plot_z.png)
 *z=2+4.2i*
 
