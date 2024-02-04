@@ -15,7 +15,10 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 
 ## Examples
 
-![Example of Graph](graph.png)
+![Vector (3,2)](Plot_1.png)
+![Vector (-4,2)](Plot_2.png)
+![Vector (-2.73, -4.15)](Plot_3.png)
+![Vector (3,-2) with the marked explementary angle](Plot_4.png)
 
 ## License.
 
