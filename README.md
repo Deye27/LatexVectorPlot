@@ -11,7 +11,7 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 ## Usage
 
 1. Change the values of `\myx` and `\myy` in the "Input Variables" section to customize the vector.
-2. Modify the variable \aangle to introduce an arbitrary angle to the displayed arc. This feature proves particularly handy when stressing the supplementary angle to the default one. You can achieve this by specifying that the value of the \aangle variable should be +360 or -360, depending on the given conditions.
+2. Modify the variable `\aangle` to introduce an arbitrary angle to the displayed arc. This feature proves particularly handy when stressing the supplementary angle to the default one. You can achieve this by specifying that the value of the \aangle variable should be +360 or -360, depending on the given conditions.
 
 ## Examples
 
