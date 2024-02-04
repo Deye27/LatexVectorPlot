@@ -32,7 +32,7 @@ The distinctive feature of this code lies in its ability to dynamically adjust t
 
 ## License
 
-This code is open for unrestricted use by anyone. No attribution is required.
+This code is open for unrestricted use by anyone.
 
 ## Author
 
