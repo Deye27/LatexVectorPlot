@@ -19,9 +19,11 @@ This branch includes a PowerShell script designed to facilitate the dynamic crea
 ## Example
 
 Prompt given:
+
 ![cdm](cdm.png)
 
 Outbut:
+
 ![plot☺](Plot☺.png)
 
 
