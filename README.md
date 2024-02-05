@@ -16,6 +16,15 @@ This branch includes a PowerShell script designed to facilitate the dynamic crea
    - If there's an error, refer to the LaTeX file for details.
 7. Feel free to customize the LaTeX file based on your necessities.
 
+## Example
+
+Prompt given:
+![code](code.png)
+
+Outbut:
+![plot☺](Plot☺.png)
+
+
 ## License
 
 This code is open for unrestricted use by anyone.
