@@ -1,6 +1,6 @@
 ## Description
 
-This repository includes a PowerShell script designed to facilitate the dynamic creation of vector graphs in LaTeX. Users can customize the X and Y components, as well as specify an additional angle for the vector. In addition, a custom label can be added to the graph, allowing more control over the  final result.
+This branch includes a PowerShell script designed to facilitate the dynamic creation of vector graphs in LaTeX. Users can customize the X and Y components, as well as specify an additional angle for the vector. In addition, a custom label can be added to the graph, allowing more control over the  final result.
 
 ## Usage
 
