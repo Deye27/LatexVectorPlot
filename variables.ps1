@@ -32,4 +32,18 @@ if ($LASTEXITCODE -eq 0) {
     Write-Host "Error during compilation. Check the LaTeX file for details."
 }
 
-Start-Process ".\Plot.pdf"
+$density = Read-Host "Image quality? (600 by default)"
+
+	& "magick" convert -density $density Plot.pdf -quality 100 Plot.jpg
+
+	
+    if ($LASTEXITCODE -eq 0) {
+        Write-Host "Conversion to JPG successfully completed."
+
+        Start-Process .\Plot.jpg
+    } else {
+        Write-Host "Error while converting to JPG: $LASTEXITCODE"
+		Write-Host "Make sure you have ImageMacick (https://imagemagick.org/script/download.php) and Ghostsript (https://www.ghostscript.com/releases/gsdnld.html) installed."
+    }
+	
+Pause
