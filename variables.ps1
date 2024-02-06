@@ -27,9 +27,9 @@ Set-Content $filePath $content
 Invoke-Expression "& pdflatex.exe $filePath"
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "Compilazione completata con successo."
+    Write-Host "Successfully completed compilation."
 } else {
-    Write-Host "Errore durante la compilazione. Controlla il file LaTeX per i dettagli."
+    Write-Host "Error during compilation. Check the LaTeX file for details."
 }
 
 Start-Process ".\Plot.pdf"
