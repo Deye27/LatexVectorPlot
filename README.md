@@ -6,7 +6,7 @@ This PowerShell script is designed to facilitate the dynamic creation of vector 
 
 1. Run the script `auto.bat`.
 2. Follow the prompts to input the X and Y components of the vector.
-3. Input any desired angle (θ) for the vector's arc. Note that this angle does not affect the vector's coordinates, only the arc displaying θ.
+3. Input any desired angle ($\theta$) for the vector's arc. Note that this angle does not affect the vector's coordinates, only the arc displaying $\theta$.
 4. Choose whether to add a custom label to the graph.
    - If selected, enter the desired label when prompted. It can be a number or a string.
    - If not selected, a default label will be generated based on the X and Y components.
