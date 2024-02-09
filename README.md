@@ -15,7 +15,7 @@ This PowerShell script is designed to facilitate the dynamic creation of vector 
    - If successful, continues the process.
    - If there's an error, refer to the LaTeX file for details.
 7. After successful compilation, you will be asked to choose between `PDF` or `Image` type of output.
-   - PDF: input `1`. The PDF will open right after.
+   - PDF: input `1`. The PDF output file will open right after.
    - Image: input `2`. The script will convert the PDF to an image (JPG format by default) using ImageMagick.
 8. Check the conversion status:
    - If successful, the resulting image will be opened for your review.
