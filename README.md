@@ -8,7 +8,7 @@ The provided LaTeX code allows you to generate a Cartesian graph with a dynamic 
 With trivial substitutions it can also be adapted to the representation of complex numbers in the Gauss plane.
 The distinctive feature of this code lies in its ability to dynamically adjust the anchoring of elements based on the vector, ensuring minimal overlap in labeling. This enhances both the clarity and aesthetic appeal of the generated plot.
 
-Check out the `auto-bat` branch; it's an automated version that utilizes a `.bat` file to modify the `.tex` file, compile it, and open the result.
+**Check out the `auto-bat` branch; it's an automated version that utilizes a `.bat` file to modify the `.tex` file, compile it, and open the result.**
 
 ## Usage
 
